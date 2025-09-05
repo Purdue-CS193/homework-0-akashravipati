@@ -17,8 +17,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Excited to learn helpful tools to further my success
+- Meeting new people in class
+- The satisfaction after passing test cases
+- Using the skills here in other classes
+- Using the terminal usefully when I have always thought it was some useless app on my computer
 
 1. Numbered
 2. List
